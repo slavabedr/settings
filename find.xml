@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Checkstyle Inspection Scope" />
+    <option name="defaultScopeName" value="Checkstyle Inspection Scope" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Checkstyle Inspection Scope" />
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="rmi" description="rmi" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Java\jdk1.8.0_112\bin\rmiregistry.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/Java/jdk1.8.0_112/bin" />
+    </exec>
+  </tool>
+  <tool name="rmi1" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="start rmiregistry" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/Java/jdk1.8.0_112/bin" />
+    </exec>
+  </tool>
+</toolSet>
