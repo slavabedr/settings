@@ -8,4 +8,5 @@
     <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Checkstyle" />
 </application>
