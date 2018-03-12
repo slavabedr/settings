@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\src\account\A.java [untitled23]'" />
-    <option name="defaultScopeName" value="File '...\src\account\A.java [untitled23]'" />
+    <option name="customScope" value="File '...\indexing-service\src\main\java\io\druid\indexing\common\task\IndexTask.java [druid-indexing-service]'" />
+    <option name="defaultScopeName" value="File '...\indexing-service\src\main\java\io\druid\indexing\common\task\IndexTask.java [druid-indexing-service]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\src\account\A.java [untitled23]'" />
+    <option name="SEARCH_SCOPE" value="File '...\indexing-service\src\main\java\io\druid\indexing\common\task\IndexTask.java [druid-indexing-service]'" />
   </component>
 </application>
