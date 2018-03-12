@@ -9,4 +9,8 @@
   <ScalaCodeStyleSettings>
     <option name="TYPE_ANNOTATION_IMPLICIT_MODIFIER" value="false" />
   </ScalaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
+  </codeStyleSettings>
 </code_scheme>
