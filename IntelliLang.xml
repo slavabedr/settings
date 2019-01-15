@@ -1,8 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="GenericSQL" injector-id="xml">
-      <display-name>outputText/@value</display-name>
-      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("value")).withParent(xmlTag().withLocalName(string().equalTo("outputText")).withNamespace(string().equalTo("http://java.sun.com/jsf/html")))]]></place>
-    </injection>
-  </component>
-</application>
