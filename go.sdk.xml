@@ -1,0 +1,9 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-path>
+      <set>
+        <option value="$USER_HOME$/AppData/Local/Google/Cloud SDK/google-cloud-sdk/platform/google_appengine/goroot-1.8" />
+      </set>
+    </sdk-path>
+  </component>
+</application>
