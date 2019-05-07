@@ -7,4 +7,14 @@
     <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="var" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="html_remove_comments" value="hello" description="This operation removes comment from any part" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="html_angelsharp_create_element_longer" value="hello" description="This operation removes comment from any part" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
