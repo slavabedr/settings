@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 2" parent="$default">
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <mouse-shortcut keystroke="alt button142" />
+  </action>
+</keymap>
