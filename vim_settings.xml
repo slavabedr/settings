@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/Projects/webhw/webhw/src/main/resources/templates/framework/sidebar.html" timestamp="1558531831677">
