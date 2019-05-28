@@ -9,5 +9,6 @@
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="new.search.everywhere" value="false" />
     <entry key="action.aware.typeAhead" value="false" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
