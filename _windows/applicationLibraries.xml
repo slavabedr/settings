@@ -5,6 +5,14 @@
     </gwt-sdk-list>
   </component>
   <component name="libraryTable">
+    <library name="JFlex &amp; idea-flex.skeleton">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/Projects/projectGradleGenerated/project/src/main/gen/jflex-1.7.0-2.jar!/" />
+        <root url="file://$USER_HOME$/Desktop/Projects/projectGradleGenerated/project/src/main/gen/idea-flex.skeleton" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.6 interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" />
