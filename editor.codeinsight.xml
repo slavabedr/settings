@@ -1,7 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
-    <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="HIGHLIGHT_BRACES" value="false" />
-  </component>
-</application>
