@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="cap" value="$TEXT$" description="capit" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="capitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

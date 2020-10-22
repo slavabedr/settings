@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="quo">
+      <action id="ShowIntentionActions" />
+      <shortuct text="DOWN" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/security" location="C:/Jetbrains/Projects/demo-spring-amq" />
+    <ignored-resource url="http://www.springframework.org/schema/security" />
+  </component>
+</application>
